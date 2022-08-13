@@ -14,8 +14,13 @@ html {
 h1{
 	font-size: 3rem;
 	color: white;
+}
 
-
+h2{
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+	align-items: center;
+	width: 90%;
 }
 
 hr {
